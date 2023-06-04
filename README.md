@@ -1,7 +1,7 @@
 ![morse_icon](https://user-images.githubusercontent.com/64918749/142749381-b82eb312-be18-472f-b1b4-166bbf694ed1.jpg)
 # Morse Code Hangman (ECE 198)
 
-Project Group 65's submission for their ECE 198 final prototype (1A Electrical/Computer Engineering, University of Waterloo).
+Project Group 65's submission for the ECE198 final prototype (1A Electrical/Computer Engineering, University of Waterloo).
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

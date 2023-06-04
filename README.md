@@ -7,7 +7,7 @@ Project Group 65's submission for the ECE198 final prototype (1A Electrical/Comp
 
 <h3>Description</h3>
 
-> This prototype uses the STM32 Nucleo-64 Microcontroller, a 16x2 Parallel LCD, and an Active Low-Level Trigger Buzzer to create a full hangman game for a user. The game includes functionality for processing user input for morse code words, and printing appropriate data to the LCD.
+> This prototype uses the STM32 Nucleo-64 Microcontroller, a 16x2 Parallel LCD, and an Active Low-Level Trigger Buzzer to create a single-player complete Hangman game. The game includes functionality for processing user input for morse code words, and printing appropriate data to the LCD.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
